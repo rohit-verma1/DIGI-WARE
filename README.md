@@ -1,6 +1,6 @@
 # Tic-Tac-Toe Game in Verilog
 
-This is a simple implementation of the classic Tic-Tac-Toe game using Verilog hardware description language (HDL). It is designed to run on an FPGA board, such as the Cora Z7.
+This is a simple implementation of the classic Tic-Tac-Toe game using Verilog hardware description language (HDL).
 
 ## Overview
 
